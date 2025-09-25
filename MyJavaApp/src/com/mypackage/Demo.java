@@ -14,7 +14,7 @@ public class Demo {
 			if (bottlesNum == 1) {
 				word = "bottle"; // singular, as in ONE bottle.
 				}
-		System.out.println("There'll be " + bottlesNum +		" green " + word + ", hanging on the wall");
+		System.out.println("There'll be " + bottlesNum +	" green " + word + ", hanging on the wall");
 		} else {
 		System.out.println("There'll be no green bottles, hanging on the wall");
 		} // end else
