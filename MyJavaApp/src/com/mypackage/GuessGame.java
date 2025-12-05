@@ -1,5 +1,7 @@
 package com.mypackage;
-
+/**
+ * The guessing game p. 156
+ */
 public class GuessGame {
 	Player p1;
 	Player p2;
