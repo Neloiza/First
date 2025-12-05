@@ -1,5 +1,7 @@
 package com.mypackage;
-
+/**
+ * Head First Java, 3rd Edition (2022), p.102 - Bottles song game
+ */
 public class Demo {
 	
 	public static void bottlesSong() {
