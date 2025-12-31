@@ -1,7 +1,7 @@
 package com.mypackage;
 
 /**
- * The Phrase-O-Matic p. 108
+ * Ch.1 The Phrase-O-Matic p. 108
  */
 public class PhraseOMatic {
 

@@ -1,7 +1,7 @@
 package com.mypackage;
 
 /**
- * From Code Magnets p. 112, 168
+ * From Code Magnets Ch.1, 2 p. 112, 168
  */
 
 class DrumKit {

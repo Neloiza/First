@@ -1,6 +1,6 @@
 package com.mypackage;
 /**
- * The player for the Guess game p. 156
+ * The player for the Guess game Ch.2 p. 156
  */
 public class Player {
 

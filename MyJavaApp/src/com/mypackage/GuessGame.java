@@ -1,6 +1,6 @@
 package com.mypackage;
 /**
- * The guessing game p. 156, uses Player class.
+ * The guessing game Ch.2 p. 156, uses Player class.
  */
 public class GuessGame {
 	Player p1;
